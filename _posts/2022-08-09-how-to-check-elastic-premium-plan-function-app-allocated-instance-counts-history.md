@@ -9,7 +9,7 @@ tags:
 みなさん、こんにちは。App Service サポート担当の間山です。
 関数アプリを実行するにあたり、ホストされるプランとして Elastic Premium Plan が提供されております。Elastic Premium Plan を使用して関数アプリの関数コードアプリケーションを実行することで、イベント量に応じて動的にインスタンスがスケールされます。今回の内容は、以下の弊社グローバルチームが執筆しております Tech Community 内のブログ記事ございます
 [How to check Elastic Premium Plan Function App allocated instance counts history](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/how-to-check-elastic-premium-plan-function-app-allocated/ba-p/2697852)
-の内容を日本ユーザ向けに解説をいたします。
+の内容を日本ユーザ向けに解説をいたします。test.
 
 ## Elastic Premium Plan とは
 関数アプリをホストする上で、3 種類のホスティングプラン（従量課金 Plan、App Service Plan、Elastic Premium Plan）の中から選択することが出来ます。App Service Plan を選択すると専用ホスティングプランとして通常の App Service（Web Apps）と同様に、指定されたインスタンス数に基づいて関数アプリの関数コードアプリケーションが実行されます。また、Web Apps と 関数アプリを 1 つの App Service Plan 内にて実行することが出来ます。スケーリングする場合には、手動でインスタンス追加のオペレーションや CPU 使用率や時刻による自動スケーリングを設定することが出来ます。
@@ -97,7 +97,7 @@ Elastic Premium Plan は、自身の関数アプリを占有インスタンス�
 <br>
 <br>
 
-2022 年 08 月 09 日時点の内容となります。<br>
+2022 年 08 月 28 日時点の内容となります。<br>
 本記事の内容は予告なく変更される場合がございますので予めご了承ください。
 
 <br>
