@@ -4,7 +4,6 @@ author_name: "yunasugimoto"
 tags:
     - App Service
 ---
-test2
 # 質問
 App Service で CLR Profiler を取得する方法を教えてください。
 
